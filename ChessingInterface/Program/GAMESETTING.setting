@@ -1,0 +1,17 @@
+blue = People > C:\Users\user\Desktop\隨班附讀\AI\HW3_90799210Y\ChessingInterface\Program\AI_HW3_Chess.exe
+red = AI > C:\Users\user\Desktop\隨班附讀\AI\HW3_90799210Y\ChessingInterface\Program\AI_HW3_Chess.exe
+test = AI > 
+totaltimelimit = 240
+Usetotaltimelimit = False
+onesteptimelimit = 120
+Useonesteptimelimit = True
+maxround = 1
+change = False
+BlueFirst = False
+DeBugg = True
+RandSeedMode = Default
+RandNumberString = 123456
+RoomName = RoomName
+IP = 140.122.184.66
+RoomOrder = True
+IsMyBlue = True
